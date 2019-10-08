@@ -1,5 +1,5 @@
 # Sorting Algorithms Visualizer.
-#Made Using Matplotlib Animation.
+# Made Using Matplotlib Animation.
 ![kd](https://miro.medium.com/max/1400/0*qwkWXc-wzW2D8ggV.jpg)
 
 ### Sorting Algorithms Used
