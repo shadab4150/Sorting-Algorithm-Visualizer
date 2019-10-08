@@ -8,3 +8,7 @@
 * Insertion Sort
 * Selection Sort
 * Bubble Sort
+
+### Animated Gif
+* To see the code click here. [**link**](https://shadab4150.github.io/Sorting-Algorithm-Visualizer/Sorting_Algorithm_Visualizer.html)
+<center><img src='https://i.ibb.co/LQbCvgN/ezgif-com-crop.gif' width="700"></center>
